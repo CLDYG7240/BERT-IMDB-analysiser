@@ -51,6 +51,3 @@ print(predict_sentiment("This movie was absolutely wonderful!"))
 
 如果你想为此项目贡献代码，欢迎提交Pull Request或开Issue讨论你的想法。
 
-## 许可
-
-此项目遵循MIT许可证。有关详细信息，请参阅`LICENSE`文件。# -BERT-
